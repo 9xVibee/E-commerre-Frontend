@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ada31d9.css",
+    "main.js": "/static/js/main.b9f05013.js",
+    "static/media/cat-2.jpg": "/static/media/cat-2.c783bc351239091a6ba7.jpg",
+    "static/media/cat-3.jpg": "/static/media/cat-3.a8441fd9d3326934ed92.jpg",
+    "static/media/cat-1.jpg": "/static/media/cat-1.aa15048c6d1dc6572a81.jpg",
+    "static/media/cat-4.jpg": "/static/media/cat-4.427b423a2e66b77f3ba8.jpg",
+    "static/media/banner-img.png": "/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/headphone-prod-2.webp": "/static/media/headphone-prod-2.62c9faa99a0770201113.webp",
+    "static/media/headphone-prod-5.webp": "/static/media/headphone-prod-5.dcb23ddae9e857c43b86.webp",
+    "static/media/earbuds-prod-1.webp": "/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
+    "index.html": "/index.html",
+    "main.2ada31d9.css.map": "/static/css/main.2ada31d9.css.map",
+    "main.b9f05013.js.map": "/static/js/main.b9f05013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ada31d9.css",
+    "static/js/main.b9f05013.js"
+  ]
+}
